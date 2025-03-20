@@ -1,2 +1,3 @@
 # CHID320
-final portfolio
+final portfolio for the Calderwood Seminar
+
